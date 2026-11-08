@@ -109,4 +109,4 @@ async def lagger(interaction: discord.Interaction):
         ephemeral=True,
     )
 
-client.run("put-yo-token")
+client.run("MTU2OTA3Mjk5NTAzOTcxMTQ4Mg.GQ-5RZ.IROveaIP4WLBvl9T_051S2JqiHWGWABu4BI-_M")
